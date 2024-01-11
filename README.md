@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Sebastián, un apasionado programador y estudiante de Ingeniería de Sistemas y Computación en la Universidad Católica de Colombia. 🚀<br><br>💻 Desarrollo de software y web es mi pasión, creando soluciones innovadoras para mejorar la experiencia digital. 🌟<br><br>🔒 La ciberseguridad es otro de mis intereses, priorizando la protección de datos y sistemas. 🔐<br><br>📚 Mi formación académica me ha proporcionado conocimientos sólidos en programación y frameworks, pero siempre busco aprender algo nuevo. 📖<br><br>🌐 Fuera del aula, sigo las últimas tendencias tecnológicas a través de blogs, libros y conferencias. 📰<br><br>🤝 Emocionado de ser parte de la comunidad de GitHub y colaborar en proyectos interesantes. ¡Conéctate! 🤗<br><br>¡Gracias por visitar mi perfil! 👏
+#💫About Me:
+hello! I am Sebastián, a passionate programmer and student of Systems and Computer Engineering at the Catholic University of Colombia. 🚀<br><br>💻 Software and web development is my passion, I like creating innovative solutions to improve the digital experience. 🌟<br><br>🔒 Cybersecurity is another of my interests, prioritizing the protection of data and systems. 🔐<br><br>📚 My academic training has provided me with solid knowledge in programming and frameworks, but I am always looking to learn something new. 📖<br><br>🌐 Outside of the classroom, I follow the latest technological trends through blogs, books and conferences. 📰<br><br>🤝 Excited to be part of the GitHub community and collaborate on interesting projects. Connect! 🤗<br><br>Thank you for visiting my profile! 👏
 
 
 ## 🌐 Socials:
