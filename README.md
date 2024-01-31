@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SebasDev</h1>
-<h3 align="center">A passionate full-Stack developer from 🇨🇴</h3>
 <img src="https://i.imgur.com/NWovkS3.png">
 
 - 🔭 I’m currently working on **full-stack-developer-guide**
