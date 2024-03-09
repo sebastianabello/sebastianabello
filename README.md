@@ -12,7 +12,7 @@
 
 <p align="left">
   <a
-    href="https://linkedin.com/in/www.linkedin.com/in/sebastian-abello-desarrollador"
+    href="www.linkedin.com/in/sebastian-abello-desarrollador"
     target="blank"
     ><img
       align="center"
