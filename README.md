@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm SebasDev</h1>
+<h1 align="center">Hi 👋, I'm Juan</h1>
 <img src="https://i.imgur.com/NWovkS3.png">
 
-- 🔭 I’m currently working on **full-stack-developer-guide**
--  🌱 I’m currently learning **react**
+- 🔭 I’m currently working on **Tools of OSINT**
+-  🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [sebasDev](sebasDev)
 - 📝 I regularly write articles on [programming education](programmingeducation)
-- 💬 Ask me about **React, Node, Java and Spring boot**
-- 📫 How toreach me **juanse.abello.2004@gmail.com**
-
+- 💬 Ask me about **Python, Java, Spring boot, OSINT, Cybersecurity**
+- 
 <h3 align="left"><b>Connect with me:</b></h3>
 
 <p align="left">
