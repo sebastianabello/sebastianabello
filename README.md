@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<img src="https://i.imgur.com/NWovkS3.png">
 
 - 🔭 I’m currently working on **Tools of OSINT**
 -  🌱 I’m currently learning **Python**
