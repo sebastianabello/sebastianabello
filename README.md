@@ -1,4 +1,4 @@
-# 💫 AAcerca de mí:
+# 💫 Acerca de mí:
 Ingeniero de Sistemas y Computación, egresado de la Universidad Católica de Colombia, con un fuerte interés<br>en la ciberseguridad y la arquitectura de software. He participado en la implementación de soluciones tecnológicas<br>orientadas a la optimización de procesos y la gestión eficiente de la información, trabajando en entornos<br>colaborativos y multidisciplinarios. Actualmente, me encuentro iniciando una Maestría en Arquitectura de Software<br>y fortaleciendo mis conocimientos a través de certificaciones especializadas, con el objetivo de diseñar soluciones<br>seguras, escalables y alineadas con buenas prácticas de la industria.
 
 
