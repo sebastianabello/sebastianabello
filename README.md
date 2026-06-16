@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-Ingeniero de Sistemas y Computación, egresado de la Universidad Católica de Colombia, con un fuerte interés<br>en la ciberseguridad y la arquitectura de software. He participado en la implementación de soluciones tecnológicas<br>orientadas a la optimización de procesos y la gestión eficiente de la información, trabajando en entornos<br>colaborativos y multidisciplinarios. Actualmente, me encuentro iniciando una Maestría en Arquitectura de Software<br>y fortaleciendo mis conocimientos a través de certificaciones especializadas, con el objetivo de diseñar soluciones<br>seguras, escalables y alineadas con buenas prácticas de la industria.
+Ingeniero de Sistemas y Computación especializado en operaciones de seguridad (SOC) y automatización de ciberseguridad con Python, Go y Bash. Experiencia administrando plataformas SIEM/SOAR (ELK Stack, Google SecOps) on-premise y en la nube, ejecutando hardening basado en CIS Benchmarks e inteligencia de amenazas en Dark Web. Certificado en ISO/IEC 27001:2022 y Google Cloud Digital Leader; actualmente cursando una Maestría en Arquitectura de Software. En desarrollo activo de competencias DevSecOps (Docker, Kubernetes, Ansible, Jenkins, GitHub Actions, HashiCorp Vault) orientadas a integrar seguridad en pipelines de CI/CD.
 
 
 ## 🌐 Redes sociales:
